@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @alessandra-15
+/src/backend/database.py      @alessandra-15
+/src/backend/routers/auth.py  @alessandra-15
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @alessandra-15
